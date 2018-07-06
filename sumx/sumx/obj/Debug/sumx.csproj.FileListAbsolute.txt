@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\CODINGUTS\sumx\sumx\obj\Debug\sumx.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CODINGUTS\sumx\sumx\obj\Debug\sumx.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CODINGUTS\sumx\sumx\bin\Debug\sumx.exe.config
+C:\Users\User\Desktop\CODINGUTS\sumx\sumx\bin\Debug\sumx.exe
+C:\Users\User\Desktop\CODINGUTS\sumx\sumx\bin\Debug\sumx.pdb
+C:\Users\User\Desktop\CODINGUTS\sumx\sumx\obj\Debug\sumx.exe
+C:\Users\User\Desktop\CODINGUTS\sumx\sumx\obj\Debug\sumx.pdb
